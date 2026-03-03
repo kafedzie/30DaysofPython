@@ -67,4 +67,4 @@ area_of_circle_2 = (22/7) * (int(radius) ** 2)
 
 print(area_of_circle_2)
 
-
+print('Total: ', total)
